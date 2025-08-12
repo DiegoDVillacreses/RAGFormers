@@ -1,7 +1,3 @@
-# RAGFormers 
-
-![RAGFormers icon](image.png)
-
 ## AI-Licitaciones: Intelligent Tender Document Analysis Platform
 
 ## 📌 Overview

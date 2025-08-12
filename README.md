@@ -31,8 +31,8 @@ The system uses **OCR** and an **AI Framework** to extract, classify, validate, 
 
 RAGFormers/
 ├── backend/        # FastAPI server for document processing & analysis
+│   ├── models/     # AI framework and its rules
 ├── frontend/       # Streamlit dashboard
-├── models/         # NLP models and rules
 ├── data/           # Sample documents for testing
 ├── README.md
 
@@ -92,3 +92,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 * Jorge Argüello (Full Stack Developer)
 * Kuntur Muenala (AI Engineer)
 * Diego Villacreses (AI Engineer)
+
+Special thanks to Rommel Tejada for his expertice in tender documents.
